@@ -1,1 +1,2 @@
 ﻿Ez egy adatok.txt nevű fájl, és a lokális kódtárban nincs benne, azoban a pull paranccsal lehúztuk, és már benne van.
+ Itt is belenyúlunk
